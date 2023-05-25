@@ -28,7 +28,7 @@ More information on becoming a maintainer is here, visit [this link](#).
 ### Important Links
 
 - [Website](#)
-- [Telegram channel(#)
+- [Telegram channel](#)
 - [Telegram group](#)
 - [Supported devices](#)
 - [Changelogs](#)

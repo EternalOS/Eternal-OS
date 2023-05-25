@@ -9,8 +9,8 @@ EternalOS combines the latest updates from Google with handpicked features from 
 Currently focused on Android 13 and the latest security patches from Google.
 
 ## Downloads
-
-[![Downloads Coming Soon][#](#)
+Due to lack of maintainers we currently on support GSI Images...
+[Downloads Coming Soon][#](#)
 
 ### Beginner's Guide
 

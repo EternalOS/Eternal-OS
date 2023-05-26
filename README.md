@@ -3,7 +3,8 @@
 EternalOS is a project to create the last and final version of Android. It is based on the Android Open Source Project (AOSP), but it has been heavily modified to be more secure, stable, and customizable.
 
 EternalOS is still under development, but it is already possible to install it on a variety of devices. The project is open source, so anyone can contribute to its development.
-Features
+
+## Features
 
 > Security: EternalOS is designed to be as secure as stock Android hence, we are very eager to merge the latest of security patches into the buillds
 

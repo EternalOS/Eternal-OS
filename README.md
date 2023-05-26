@@ -1,5 +1,5 @@
 # EternalOS
-[!Image of EternalOS](https://github.com/EternalOS/Images/blob/069ec237715479d17dbe71ec60a7d6cf334d6c6f/%F0%9D%94%BCternalOS.png)
+![EternalOS](#)
 EternalOS is a project to create the last and final version of Android. It is based on the Android Open Source Project (AOSP), but it has been heavily modified to be more secure, stable, and customizable.
 
 EternalOS is still under development, but it is already possible to install it on a variety of devices. The project is open source, so anyone can contribute to its development.

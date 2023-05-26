@@ -1,34 +1,40 @@
 # EternalOS
 
-![EternalOS](https://raw.githubusercontent.com/EternalOS/github/main/EternalBanner.png)
+EternalOS is a project to create the last and final version of Android. It is based on the Android Open Source Project (AOSP), but it has been heavily modified to be more secure, stable, and customizable.
 
-Welcome to EternalOS!
+EternalOS is still under development, but it is already possible to install it on a variety of devices. The project is open source, so anyone can contribute to its development.
+Features
 
-EternalOS combines the latest updates from Google with handpicked features from various feedbacks.
+> Security: EternalOS is designed to be as secure as stock Android hence, we are very eager to merge the latest of security patches into the buillds
 
-Currently focused on Android 13 and the latest security patches from Google.
+> Stability: EternalOS is designed to be more stable than stock Android. It has been tested on a variety of devics supporting project treble.
 
-## Downloads
-Due to lack of maintainers we currently on support GSI Images...
+> Customization: We aim to design EternalOS to be highly customizable. You can change the look and feel of the operating system, as well as the apps that are installed.
 
-[Downloads Coming Soon][#](#)
+## Installation
 
-### Beginner's Guide
+To install EternalOS, you will need to:
 
-Visit these important repositories:
+> 1. Download the EternalOS image and TWRP recovery image from the project website.
+> 2. Boot your device into TWRP recovery.
+> 3. Wipe the data partition and cache partition.
+> 4. Flash the EternalOS image.
+> 5. Reboot your device.
 
-- [Manifest](https://github.com/EternalOS/manifest)
-- [Vendor](https://github.com/EternalOS/vendor_eternal)
-- [Devices](https://github.com/EternalOS-Devices)
+## Documentation
 
-## Guides on Builds Coming Soon
+The project website has a comprehensive documentation section that covers all aspects of EternalOS. The documentation includes installation instructions, tutorials, and reference documentation.
 
-More information on becoming a maintainer is here, visit [this link](#).
+## Community
 
-### Important Links
+The EternalOS community is a friendly and welcoming group of people who are passionate about Android. The community is active on the project website, as well as on social media.
 
-- [Website](#)
-- [Telegram channel](#)
-- [Telegram group](#)
-- [Supported devices](#)
-- [Changelogs](#)
+## Contributing
+
+The EternalOS project is open source, so anyone can contribute to its development. If you have ideas for new features or improvements, please feel free to open an issue or pull request on the project website.
+Contact
+
+If you have any questions about EternalOS, please feel free to contact the project team. The project team can be reached via email or on the project website.
+## #The Last and Final Version of Android
+
+EternalOS is the last and final version of Android. It is the culmination of years of development and it is the most secure, stable, and customizable version of Android ever created. If you are looking for an Android experience that is both secure and reliable, then EternalOS is the perfect choice for you.

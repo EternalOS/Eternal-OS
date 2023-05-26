@@ -35,7 +35,7 @@ The EternalOS community is a friendly and welcoming group of people who are pass
 The EternalOS project is open source, so anyone can contribute to its development. If you have ideas for new features or improvements, please feel free to open an issue or pull request on the project website.
 Contact
 
-If you have any questions about EternalOS, please feel free to contact the project team. The project team can be reached on [Telegram](t.me/FiniteCode).
+If you have any questions about EternalOS, please feel free to contact the project team. The project team can be reached on [Telegram](https://t.me/FiniteCode).
 
 ## #The Last and Final Version of Android
 

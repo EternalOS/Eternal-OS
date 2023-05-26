@@ -39,4 +39,6 @@ If you have any questions about EternalOS, please feel free to contact the proje
 
 ## #The Last and Final Version of Android
 
-EternalOS is the last and final version of Android. It is the culmination of determination and love towards AOSP, we strive to make it stable, and customizable version of Android ever created. If you are looking for an Android experience that is both secure and reliable, then EternalOS is the perfect choice for you.
+EternalOS is the last and final version of Android. It is the culmination of determination and love towards AOSP, we strive to make it stable, and customizable version of Android ever created.
+
+If you are looking for an Android experience that is both secure and reliable, then EternalOS is the perfect choice for you.

@@ -16,8 +16,8 @@ EternalOS is still under development, but it is already possible to install it o
 
 To install EternalOS, you will need to:
 
-> 1. Download the EternalOS image and TWRP recovery image from the project website.
-> 2. Boot your device into TWRP recovery.
+> 1. Download the EternalOS image and TWRP recovery image or any other recovery from the respective websites if not already downloaded.
+> 2. Boot your device into any custom recovery.
 > 3. Wipe the data partition and cache partition.
 > 4. Flash the EternalOS image.
 > 5. Reboot your device.
@@ -35,7 +35,8 @@ The EternalOS community is a friendly and welcoming group of people who are pass
 The EternalOS project is open source, so anyone can contribute to its development. If you have ideas for new features or improvements, please feel free to open an issue or pull request on the project website.
 Contact
 
-If you have any questions about EternalOS, please feel free to contact the project team. The project team can be reached via email or on the project website.
+If you have any questions about EternalOS, please feel free to contact the project team. The project team can be reached on [Telegram](t.me/FiniteCode).
+
 ## #The Last and Final Version of Android
 
-EternalOS is the last and final version of Android. It is the culmination of years of development and it is the most secure, stable, and customizable version of Android ever created. If you are looking for an Android experience that is both secure and reliable, then EternalOS is the perfect choice for you.
+EternalOS is the last and final version of Android. It is the culmination of determination and love towards AOSP, we strive to make it stable, and customizable version of Android ever created. If you are looking for an Android experience that is both secure and reliable, then EternalOS is the perfect choice for you.

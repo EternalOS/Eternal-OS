@@ -6,7 +6,7 @@ EternalOS is a project to create the last and final version of Android. It is ba
 EternalOS is still under development, but it is already possible to install it on a variety of devices. The project is open source, so anyone can contribute to its development.
 
 ## Our Wiki
-It's [https://eternalos.gitbook.io/eternal-os-wiki/](here)
+It's [here at https://eternalos.gitbook.io/eternal-os-wiki/](https://eternalos.gitbook.io/eternal-os-wiki/)
 
 ## Features
 
